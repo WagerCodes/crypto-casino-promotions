@@ -17,6 +17,13 @@ This repository documents:
 - Typical eligibility rules and requirements
 - Responsible use considerations
 
+### Documentation files
+
+- [How promo codes work](docs/how-promo-codes-work.md)
+- [Common bonus types](docs/bonus-types.md)
+- [Wagering requirements explained](docs/wagering-requirements.md)
+
+
 The content here is informational and avoids promotional language.
 
 ---
