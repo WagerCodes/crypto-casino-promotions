@@ -1,3 +1,4 @@
+> Neutral documentation explaining how crypto casino promotions, bonuses, and promo codes work.
 # Crypto Casino Promotions — Reference Documentation
 
 This repository provides neutral, educational documentation explaining how crypto casino promotions work, including promo codes, bonuses, rakeback, and common offer mechanics.
